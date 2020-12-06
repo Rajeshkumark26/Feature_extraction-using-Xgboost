@@ -1,11 +1,11 @@
 # Feature_extraction-using-Xgboost
 
 
-## validation loss for xgboost
+## Training Vs validation
 ![xgboost_val](https://github.com/Rajeshkumark26/Feature_extraction-using-Xgboost/blob/main/xg_boost.JPG)
 
 
-## Final extraacted features out of 64 features:
+## Final extracted features out of 64 features:
 ![xgboost_features](https://github.com/Rajeshkumark26/Feature_extraction-using-Xgboost/blob/main/xgboost_final.JPG)
 
 
